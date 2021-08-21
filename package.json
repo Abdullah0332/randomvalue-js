@@ -1,0 +1,25 @@
+{
+  "name": "randomvalue-js",
+  "version": "1.0.3",
+  "description": "Random Number Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ashnur/random-number.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator",
+    "boolean",
+    "random-integer",
+    "random-float",
+    "js"
+  ],
+  "author": "Abdullah",
+  "license": "ISC",
+  "dependencies": {}
+}
