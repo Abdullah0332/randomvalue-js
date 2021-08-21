@@ -24,8 +24,8 @@ const generator = (options) => {
   return options.int ? Math.floor(number) : number;
 };
 
-const random = () => {
-  const options = defaults();
+const random = (min, max) => {
+  const options = defaults({ min, max });
   return generator({ ...options, int: false });
 };
 
