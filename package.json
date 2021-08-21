@@ -1,6 +1,6 @@
 {
   "name": "randomvalue-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Random Number Generator",
   "main": "index.js",
   "scripts": {
